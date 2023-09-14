@@ -50,7 +50,7 @@ B. Set up Web Programming Environment:
 
 -   Text Editor: Visual Studio Code or choose another one at your choice.
 -   Learn HTML / CSS / JavaScript.
--   Learn p5.js: [p5\*js Home](htt.ps://p5js.org/)
+-   Learn p5.js: [p5\*js Home](https://p5js.org/)
 
 C. Develop a Web page / web application.
 
